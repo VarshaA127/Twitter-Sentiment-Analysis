@@ -11,7 +11,7 @@ This knowledge can further be applied to improve a business’s functioning, and
 The information gained can also be applied to launch campaigns tailored to a targeted audience.
 
 
-## Abstract,
+## Abstract
 In this project, I am using Python to source tweets from Twitter using a Twitter Developer Account on discussions that are trending on the platform or based on user input.
 I will also be <b>cleaning</b> and <b>processing</b> the data to analyze the buzzing keywords from related topics.
 I'll see the top 20 words that are most trending to the related search to gauge the main word and then running a sentiment analysis to understand the public view on the topic.
@@ -37,8 +37,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 ## Method / Project Roadmap 
 
 
-<a>
-<img align="center" src="img/roadmap.JPG" height=300></a>
+<img align="center" src="img/roadmap.JPG" height=300>
 
 •	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. 
 •	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on.
@@ -46,8 +45,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 •	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
 
 
-<a>
-<img align="center" src="img/flowdiagram.JPG" height=300></a><br>
+<img align="center" src="img/flowdiagram.JPG" height=300>
 Figure: Flow Chart
 
 
@@ -55,14 +53,15 @@ Figure: Flow Chart
 After cleaning and analysing the top 20 words for the search "Toronto Attacks".
 
 1.Top 20 most occuring word for the search are 
-<a>
-<img align="center" src="img/top_20_wordlist.JPG" height=300></a>
+
+<img align="center" src="img/top_20_wordlist.JPG" height=300>
  
 
 2. Also, I prepared a Wordcloud for these words to have a fair view of the bar chart
 
-<a>
-<img align="center" src="img/wordCloud.JPG" height=300></a>
+
+<img align="center" src="img/wordCloud.JPG" height=300>
+Figure: WordCloud
 
 
 • These words mostly signify that attacks are being done mostly at public places.
@@ -72,12 +71,15 @@ After cleaning and analysing the top 20 words for the search "Toronto Attacks".
 
 
 3. For the Sentiment analysis I've prepared a bar graph and scatter plot
-<a>
-<img align="center" src="img/polarity_graph.JPG" height=300></a>
+
+<img align="center" src="img/polarity_graph.JPG" height=300>
+Figure: Bar Graph
+<br>
 In the Polarity Graph, It can clearly be seen that count fr the negative is even more than double that of the positive.
 
-<a>
-<img align="center" src="img/scatterPlot.JPG" height=300></a>
+<img align="center" src="img/scatterPlot.JPG" height=300>
+Figure: Scatter Plot
+<br>
 In the above scatterplot, we can see the scatterplot is more towards the left, which signifies the negative sentiments related to the 'Toronto Attacks' which is very obvious too.
 
 
