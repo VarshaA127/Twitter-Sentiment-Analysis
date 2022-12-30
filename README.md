@@ -45,7 +45,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 •	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
 
 
-<img align="center" src="img/flowdiagram.jpg" height=300>
+<img align="center" src="img/flowdiagram.png" height=300>
 Figure: Flow Chart
 
 
@@ -54,13 +54,13 @@ After cleaning and analysing the top 20 words for the search "Toronto Attacks".
 
 1.Top 20 most occuring word for the search are 
 
-<img align="center" src="img/top_20_wordlist.jpg" height=300>
+<img align="center" src="img/top_20_wordlist.png" height=300>
  
 
 2. Also, I prepared a Wordcloud for these words to have a fair view of the bar chart
 
 
-<img align="center" src="img/wordCloud.jpg" height=300>
+<img align="center" src="img/wordCloud.png" height=300>
 Figure: WordCloud
 
 
@@ -72,12 +72,12 @@ Figure: WordCloud
 
 3. For the Sentiment analysis I've prepared a bar graph and scatter plot
 
-<img align="center" src="img/polarity_graph.jpg" height=300>
+<img align="center" src="img/polarity_graph.png" height=300>
 Figure: Bar Graph
 <br>
 In the Polarity Graph, It can clearly be seen that count fr the negative is even more than double that of the positive.
 
-<img align="center" src="img/scatterPlot.jpg" height=300>
+<img align="center" src="img/scatterPlot.png" height=300>
 Figure: Scatter Plot
 <br>
 In the above scatterplot, we can see the scatterplot is more towards the left, which signifies the negative sentiments related to the 'Toronto Attacks' which is very obvious too.
