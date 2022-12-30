@@ -38,7 +38,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 
 
 <a>
-<img align="center" src="roadmap.JPG" height=300></a>
+<img align="center" src="img/roadmap.JPG" height=300></a>
 
 •	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. 
 •	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on.
