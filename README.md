@@ -41,7 +41,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 
 •	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. 
 •	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on.
-•	Devise Word Cloud: Use TextBlob to devise a word cloud to determine the top 20 trends of the given topic. (Jain, 2018)
+•	Devise Word Cloud: Use TextBlob to devise a word cloud to determine the top 20 trends of the given topic. <a href="https://www.kaggle.com/code/ankkur13/sentiment-analysis-nlp-wordcloud-textblob/notebook">(Jain, 2018)</a>
 •	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
 
 
