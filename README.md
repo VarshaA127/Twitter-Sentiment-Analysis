@@ -1,5 +1,8 @@
 # Twitter-Sentiment-Analysis
 
+
+<img align="center" src="img/twitter.jpg" height=300>
+
 <a href="https://twitter.com/">Twitter</a> is one of the biggest social media platforms out there with approximately 300 million registered users worldwide.
 On average, over 6000 tweets are sent out every single second which corresponds to over 350,000 tweets per minute.
  These tweets come from a variety of sources and can vary when it comes to the subject and context. 
