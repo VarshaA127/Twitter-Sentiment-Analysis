@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 
 
-<img align="center" src="img/twitter.jpg" height=300>
+<img align="center" src="img/twitter.jpg" height=100>
 
 <a href="https://twitter.com/">Twitter</a> is one of the biggest social media platforms out there with approximately 300 million registered users worldwide.
 On average, over 6000 tweets are sent out every single second which corresponds to over 350,000 tweets per minute.
@@ -48,7 +48,7 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 •	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
 
 
-<img align="center" src="img/flowdiagram.png" height=300>
+<img align="center" src="img/flowdiagram.png" height=500>
 Figure: Flow Chart
 
 
