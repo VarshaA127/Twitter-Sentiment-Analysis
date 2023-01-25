@@ -57,7 +57,7 @@ After cleaning and analysing the top 20 words for the search "Toronto Attacks".
 
 1.Top 20 most occuring word for the search are 
 
-<img align="center" src="img/top_20_wordlist.png" height=300>
+<img align="center" src="img/top_20_wordlist.png" height=600>
  
 
 2. Also, I prepared a Wordcloud for these words to have a fair view of the bar chart
