@@ -44,8 +44,8 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 
 •	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. <br>
 •	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on. <br>
-•	Devise Word Cloud: Use TextBlob to devise a word cloud to determine the top 20 trends of the given topic.
-•	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
+•	Devise Word Cloud: Use TextBlob to devise a word cloud to determine the top 20 trends of the given topic. <br>
+•	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative. <br>
 
 
 <img align="center" src="img/flowdiagram.png" height=900>
@@ -67,10 +67,10 @@ After cleaning and analysing the top 20 words for the search "Toronto Attacks".
 Figure: WordCloud
 
 
-• These words mostly signify that attacks are being done mostly at public places.
-• Words like TTC, Transit, GoBus,Gotransit,Subway,etc strongly signify that these incidents happen while commuting.
-• The word <b>"Random"</b> is in top 6 words, which tells us that these attacks are done randomly and there is lesser chance of any motive behind these attacks.
-• I also noticed 'hate' being one in top 10 words, this signifies hate being spread for the attacks done, or it can cause a community hatred among the masses
+• These words mostly signify that attacks are being done mostly at public places. <br>
+• Words like TTC, Transit, GoBus,Gotransit,Subway,etc strongly signify that these incidents happen while commuting. <br>
+• The word <b>"Random"</b> is in top 6 words, which tells us that these attacks are done randomly and there is lesser chance of any motive behind these attacks. <br>
+• I also noticed 'hate' being one in top 10 words, this signifies hate being spread for the attacks done, or it can cause a community hatred among the masses <br>
 
 
 3. For the Sentiment analysis I've prepared a bar graph and scatter plot
