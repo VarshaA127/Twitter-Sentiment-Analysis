@@ -28,13 +28,13 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 
 ## Project Infrastructure and Technology Used
 	To complete the project we have leveraged following resources:
-•	Python
-•	Natural Language Processing (NLP)
-•	TextBlob
-•	WordCloud
-•	TweePy
-•	Twitter API
-•	Jupyter Notebook
+•	Python <br>
+•	Natural Language Processing (NLP) <br>
+•	TextBlob <br>
+•	WordCloud <br>
+•	TweePy <br>
+•	Twitter API <br>
+•	Jupyter Notebook <br>
 
 
 ## Method / Project Roadmap 
