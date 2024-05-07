@@ -42,8 +42,8 @@ Our search keyword is going to be - <b><i>"Toronto Attacks"</i></b>
 
 <img align="center" src="img/roadmap.jpg" height=300>
 
-•	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. </n></n>
-•	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on. <\n>
+•	Fetch Twitter Data: Fetch tweets from Twitter and store them in a data frame. <br>
+•	Clean The Data: Remove redundant and unnecessary data from tweets so that it can be easily operated on. <br>
 •	Devise Word Cloud: Use TextBlob to devise a word cloud to determine the top 20 trends of the given topic.
 •	Perform Sentiment Analysis: Determine whether the take of the masses is Positive, Neutral, or Negative.
 
